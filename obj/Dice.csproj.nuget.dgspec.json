@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BYU Rental\\source\\repos\\Dice\\Dice.csproj": {}
+    "C:\\Users\\BYU Rental\\Documents\\GitHub\\MIssion1\\Dice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BYU Rental\\source\\repos\\Dice\\Dice.csproj": {
+    "C:\\Users\\BYU Rental\\Documents\\GitHub\\MIssion1\\Dice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BYU Rental\\source\\repos\\Dice\\Dice.csproj",
+        "projectUniqueName": "C:\\Users\\BYU Rental\\Documents\\GitHub\\MIssion1\\Dice.csproj",
         "projectName": "Dice",
-        "projectPath": "C:\\Users\\BYU Rental\\source\\repos\\Dice\\Dice.csproj",
+        "projectPath": "C:\\Users\\BYU Rental\\Documents\\GitHub\\MIssion1\\Dice.csproj",
         "packagesPath": "C:\\Users\\BYU Rental\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BYU Rental\\source\\repos\\Dice\\obj\\",
+        "outputPath": "C:\\Users\\BYU Rental\\Documents\\GitHub\\MIssion1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BYU Rental\\AppData\\Roaming\\NuGet\\NuGet.Config",
